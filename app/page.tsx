@@ -33,7 +33,7 @@ export default function App() {
       
       {/* Botón Flotante de WhatsApp */}
       <a 
-        href="https://wa.me/4642566834?text=Hola%20Helfen%20Consultores,%20me%20gustaría%20agendar%20una%20asesoría" 
+        href="https://wa.me/+524642566834?text=Hola%20Helfen%20Consultores,%20me%20gustaría%20agendar%20una%20asesoría" 
         target="_blank" 
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 z-50 bg-[#25D366] text-white p-4 rounded-full shadow-[0_4px_20px_rgba(37,211,102,0.3)] hover:bg-[#20bd5a] hover:scale-110 transition-all duration-300 flex items-center justify-center group"
