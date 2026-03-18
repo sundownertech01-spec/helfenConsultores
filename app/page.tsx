@@ -31,7 +31,7 @@ export default function App() {
       
       {/* Botón Flotante de WhatsApp */}
       <a 
-        href="https://wa.me/521234567890?text=Hola%20Helfen%20Consultores,%20me%20gustaría%20agendar%20una%20asesoría" 
+        href="https://wa.me/4642566834?text=Hola%20Helfen%20Consultores,%20me%20gustaría%20agendar%20una%20asesoría" 
         target="_blank" 
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 z-50 bg-[#25D366] text-white p-4 rounded-full shadow-[0_4px_20px_rgba(37,211,102,0.3)] hover:bg-[#20bd5a] hover:scale-110 transition-all duration-300 flex items-center justify-center group"
@@ -47,7 +47,7 @@ export default function App() {
           
           {/* Logo Section */}
           <div className="flex items-center gap-3 cursor-pointer">
-            <img src="/Copia de Logo Helfen.png" alt="Helfen Consultores Logo" className="h-10 w-10 object-contain" />
+            <img src="/logo.png" alt="Helfen Consultores Logo" className="h-10 w-10 object-contain" />
             <div className="flex flex-col">
               <span className="text-2xl font-black tracking-widest text-white leading-none">HELFEN</span>
               <span className="text-[10px] uppercase tracking-[0.3em] text-purple-400">Consultores</span>
@@ -269,7 +269,7 @@ export default function App() {
           {/* Imagen de fondo con cobertura oscura */}
           <div 
             className="absolute inset-0 z-0 bg-cover bg-center"
-            style={{ backgroundImage: "url('https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80')" }}
+            style={{ backgroundImage: "url('https://www.elhorizonte.mx/internacional/conoce-la-historia-de-tilin-el-nino-bailarin/4053557')" }}
           >
             <div className="absolute inset-0 bg-[#0B0F19]/90 backdrop-blur-[1px]"></div>
           </div>
@@ -311,7 +311,7 @@ export default function App() {
             
             {/* Logo en el pie de página */}
             <div className="flex items-center gap-3 mb-6">
-              <img src="/Copia de Logo Helfen.png" alt="Helfen Consultores Logo" className="h-10 w-10 object-contain" />
+              <img src="/logo.png" alt="Helfen Consultores Logo" className="h-10 w-10 object-contain" />
               <div className="flex flex-col">
                 <span className="text-2xl font-black tracking-widest text-white leading-none">HELFEN</span>
                 <span className="text-[10px] uppercase tracking-[0.3em] text-purple-400">Consultores</span>
