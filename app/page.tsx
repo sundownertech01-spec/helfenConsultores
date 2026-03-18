@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState, useEffect } from 'react';
 import { 
   TrendingUp, 
@@ -128,7 +130,7 @@ export default function App() {
                 ¿Por qué es tan difícil resolver los problemas desde adentro?
               </h2>
               <p className="text-slate-400 text-lg leading-relaxed">
-                El día a día, la rutina y la inmersión total en las operaciones generan "ceguera de taller". Los problemas se vuelven paisaje y las áreas de mejora se invisibilizan para los equipos internos.
+                El día a día, la rutina y la inmersión total en las operations generan "ceguera de taller". Los problemas se vuelven paisaje y las áreas de mejora se invisibilizan para los equipos internos.
               </p>
               <ul className="space-y-4">
                 {[
